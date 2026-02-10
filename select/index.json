@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クーネル・エンゲイザー",
+  "base_artist": "電ǂ鯨",
+  "createdAt": "2026-02-10T17:45:15.072036Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クーネル・エンゲイザー",
+      "artist": "電ǂ鯨",
+      "has_synced": false,
+      "path": "select/pl_01_クーネル・エンゲイザー_電ǂ鯨.txt"
+    }
+  ]
+}
